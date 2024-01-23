@@ -1,1 +1,1 @@
-# JacaScript + React Projects
+# JavaScript + React Projects
